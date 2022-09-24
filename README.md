@@ -1,2 +1,2 @@
 # Repositorio
-Aca subo mis archivos los cuales programo o hago.
+Aca subiré mis trabajos, como de simulación, modelado y otras programaciones.
